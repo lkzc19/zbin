@@ -10,7 +10,7 @@ import requests
 
 if __name__ == '__main__':
     # 入参
-    parser = argparse.ArgumentParser(description='gitee图床工具')
+    parser = argparse.ArgumentParser(description='github图床工具')
     parser.add_argument('img', help='图片地址')
     args = parser.parse_args()
 
