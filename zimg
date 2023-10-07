@@ -1,0 +1,3 @@
+#!/bin/bash
+
+python3 ~/zbin/lib/zimg-github.py $1
