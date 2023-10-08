@@ -14,3 +14,6 @@ zbin.conf   一些配置用于shell脚本中读取 仓库中上传了一个zbin.
 si4jj.py        掘金签到脚本
 zimg-gitee.py   gitee图床
 zimg-github.py  github图床
+
+# 模版
+xyz.drinkice.blasphemy.si4jj.plist      Mac开机任务，延迟N分钟后执行掘金签到脚本
