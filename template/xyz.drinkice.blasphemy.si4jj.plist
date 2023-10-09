@@ -7,8 +7,13 @@
     <key>ProgramArguments</key>
     <array>
         <string>/bin/bash</string>
-        <string>/Users/lkzc19/bin/si4jj</string>
+        <string>/Users/lkzc19/zbin/si4jj</string>
     </array>
+    <key>EnvironmentVariables</key>
+    <dict>
+      <key>ZBIN_HOME</key>
+      <string>/Users/lkzc19/zbin</string>
+    </dict>
     <key>RunAtLoad</key>
     <true/>
     <key>StartInterval</key>
